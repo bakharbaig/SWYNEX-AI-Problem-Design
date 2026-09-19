@@ -1,0 +1,31 @@
+feedback,sentiment
+The teaching was excellent and easy to understand.,Positive
+The laboratory sessions were very useful.,Positive
+I enjoyed the practical classes.,Positive
+The faculty explained the topic clearly.,Positive
+The course materials were helpful.,Positive
+The classroom environment was good.,Positive
+The assignments helped me learn better.,Positive
+The teacher answered all my questions.,Positive
+The lectures were interesting.,Positive
+The lab equipment was useful for practice.,Positive
+The classes are difficult to understand.,Negative
+The laboratory equipment was not working.,Negative
+The assignments are too difficult.,Negative
+The lectures were confusing.,Negative
+The course materials were not useful.,Negative
+The classroom was uncomfortable.,Negative
+The teacher did not explain the topic clearly.,Negative
+The practical sessions were not helpful.,Negative
+There was not enough time to complete the assignment.,Negative
+The internet connection made the class difficult.,Negative
+The class was held as scheduled.,Neutral
+The assignment was submitted today.,Neutral
+The lecture lasted for one hour.,Neutral
+The laboratory is open on Friday.,Neutral
+The course has four units.,Neutral
+The teacher shared the notes.,Neutral
+The exam is scheduled next week.,Neutral
+The class has thirty students.,Neutral
+The practical session starts at ten.,Neutral
+The feedback form was provided after class.,Neutral

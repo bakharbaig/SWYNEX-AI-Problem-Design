@@ -1,0 +1,59 @@
+SWYNEX LinkedIn Video Explanation Script
+
+Suggested video length: 1–2 minutes
+
+Hello everyone,
+
+I am presenting my SWYNEX internship Task 1 project, titled
+"Student Feedback Sentiment Classifier."
+
+The practical AI problem I selected is student feedback classification.
+
+Colleges receive many feedback comments, and manually categorizing them can take time. My project uses Natural Language Processing and machine learning to classify feedback as Positive, Negative, or Neutral.
+
+For the dataset, I created a small sample CSV containing student feedback and sentiment labels. The dataset does not contain personal information.
+
+The target users are college faculty and academic coordinators.
+
+For the AI approach, I used TF-IDF to convert text into numerical features and Logistic Regression for classification.
+
+I divided the dataset into training and testing data. I evaluated the model using accuracy, precision, recall, and F1-score.
+
+The success criteria are that the model should classify new feedback correctly and achieve approximately 80 percent or higher accuracy on a suitable test split.
+
+Now I will demonstrate the project.
+
+[Show the dataset]
+
+[Show the Python code]
+
+[Run the program and show the accuracy]
+
+[Enter a new feedback sentence and show the prediction]
+
+For example:
+"The teacher explained everything very clearly."
+
+The model predicts the sentiment category.
+
+This project is a small prototype. In the future, it can be improved using a larger dataset, more languages, a web interface, and additional machine-learning models.
+
+Thank you.
+
+LinkedIn post caption:
+
+I completed my SWYNEX Task 1: AI Problem Design project.
+
+Project: Student Feedback Sentiment Classifier
+
+The project demonstrates a practical AI classification problem using NLP, TF-IDF, and Logistic Regression. It classifies student feedback into Positive, Negative, or Neutral categories.
+
+Key areas:
+• Problem definition
+• Dataset and constraints
+• Machine learning approach
+• Evaluation using accuracy, precision, recall and F1-score
+• Success criteria
+• Demonstration of predictions
+
+#SWYNEX #AI #MachineLearning #NLP #Python #CSE #AIML

@@ -1,0 +1,30 @@
+SWYNEX TASK 1 - QUICK SUBMISSION CHECKLIST
+
+Repository name:
+SWYNEX-AI-Problem-Design
+
+Project:
+Student Feedback Sentiment Classifier
+
+Files to upload:
+1. README.md
+2. dataset.csv
+3. sentiment_classifier.py
+4. requirements.txt
+5. linkedin_video_script.txt
+6. .gitignore
+
+Before submitting:
+[ ] Run the Python program successfully.
+[ ] Take screenshots of the code/result if needed.
+[ ] Record the LinkedIn explanation video.
+[ ] Post the video on LinkedIn.
+[ ] Mention/tag SWYNEX Technologies as requested by the SWYNEX page.
+[ ] Copy the GitHub repository URL.
+[ ] Copy the LinkedIn post URL.
+[ ] Paste GitHub URL into "Task Submission Link".
+[ ] Paste LinkedIn URL into "LinkedIn Video Explanation Post Link".
+[ ] Click "Submit Task".
+
+IMPORTANT:
+Replace/add your own name, college, section, and other personal details only if the internship requires them.
